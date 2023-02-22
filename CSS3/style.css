@@ -1,0 +1,23 @@
+  *{
+    background-color: #333;
+  }
+  p {
+        font-style: italic;
+        background-color:purple;
+        color: azure;
+    }
+    div, p, span{ font-size: 12pt;}
+    
+    span{
+        background-color: wheat;
+        font-weight: bold;
+    }
+
+
+
+
+
+
+
+
+
